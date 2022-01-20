@@ -34,4 +34,4 @@ while True:
 
     else:
         print("Hatali endpoint girdin.")
-        print("x")
+        print("z")
